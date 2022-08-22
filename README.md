@@ -1,1 +1,1 @@
-Simple QR Code scanner created html, csss and javascript 
+Simple QR Code scanner created html, css and javascript 
